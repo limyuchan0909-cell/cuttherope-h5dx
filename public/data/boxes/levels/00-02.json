@@ -1,200 +1,141 @@
 {
-    "settings": [
-        {
-            "name": 0,
-            "width": 320,
-            "height": 480,
-            "gridSize": 32
-        },
-        {
-            "name": 1,
-            "ropePhysicsSpeed": 1,
-            "special": 2,
-            "twoParts": false
-        }
-    ],
-    "objects": [
-        {
-            "name": 2,
-            "x": 238,
-            "y": 417
-        },
-        {
-            "name": 52,
-            "x": 159,
-            "y": 153
-        },
-        {
-            "name": 3,
-            "x": 158,
-            "y": 357,
-            "timeout": -1
-        },
-        {
-            "name": 3,
-            "x": 82,
-            "y": 358,
-            "timeout": -1
-        },
-        {
-            "name": 3,
-            "x": 238,
-            "y": 360,
-            "timeout": -1
-        },
-        {
-            "name": 100,
-            "x": 79,
-            "y": 220,
-            "length": 75,
-            "wheel": false,
-            "gun": false,
-            "radius": -1,
-            "moveLength": -1,
-            "moveVertical": false,
-            "moveOffset": 0,
-            "spider": false,
-            "part": "L"
-        },
-        {
-            "name": 100,
-            "x": 246,
-            "y": 99,
-            "length": 75,
-            "wheel": false,
-            "gun": false,
-            "radius": -1,
-            "moveLength": -1,
-            "moveVertical": false,
-            "moveOffset": 0,
-            "spider": false,
-            "part": "L"
-        },
-        {
-            "name": 100,
-            "x": 74,
-            "y": 101,
-            "length": 75,
-            "wheel": false,
-            "gun": false,
-            "radius": -1,
-            "moveLength": -1,
-            "moveVertical": false,
-            "moveOffset": 0,
-            "spider": false,
-            "part": "L"
-        },
-        {
-            "name": 100,
-            "x": 243,
-            "y": 225,
-            "length": 75,
-            "wheel": false,
-            "gun": false,
-            "radius": -1,
-            "moveLength": -1,
-            "moveVertical": false,
-            "moveOffset": 0,
-            "spider": false,
-            "part": "L"
-        },
-        {
-            "name": 100,
-            "x": 160,
-            "y": 48,
-            "length": 75,
-            "wheel": false,
-            "gun": false,
-            "radius": -1,
-            "moveLength": -1,
-            "moveVertical": false,
-            "moveOffset": 0,
-            "spider": false,
-            "part": "L"
-        },
-        {
-            "name": 100,
-            "x": 160,
-            "y": 270,
-            "length": 75,
-            "wheel": false,
-            "gun": false,
-            "radius": -1,
-            "moveLength": -1,
-            "moveVertical": false,
-            "moveOffset": 0,
-            "spider": false,
-            "part": "L"
-        },
-        {
-            "name": 4,
-            "x": 85,
-            "y": 274,
-            "locale": "en",
-            "text": "Collect as many stars as you can",
-            "width": 200
-        },
-        {
-            "name": 13,
-            "x": 65,
-            "y": 307,
-            "locale": "en",
-            "moveSpeed": 100,
-            "rotateSpeed": 100
-        }
-    ],
-    "ru": [
-        {
-            "name": 13,
-            "x": 60,
-            "y": 315,
-            "locale": "ru",
-            "moveSpeed": 100,
-            "rotateSpeed": 100
-        },
-        {
-            "name": 4,
-            "x": 73,
-            "y": 278,
-            "locale": "ru",
-            "text": "Старайтесь собирать звезды леденцом",
-            "width": 210
-        }
-    ],
-    "fr": [
-        {
-            "name": 4,
-            "x": 97,
-            "y": 280,
-            "locale": "fr",
-            "text": "Recueillez le plus d'étoiles possible",
-            "width": 150
-        },
-        {
-            "name": 13,
-            "x": 83,
-            "y": 316,
-            "locale": "fr",
-            "moveSpeed": 100,
-            "rotateSpeed": 100
-        }
-    ],
-    "de": [
-        {
-            "name": 13,
-            "x": 66,
-            "y": 311,
-            "locale": "de",
-            "moveSpeed": 100,
-            "rotateSpeed": 100
-        },
-        {
-            "name": 4,
-            "x": 86,
-            "y": 275,
-            "locale": "de",
-            "text": "Sammle möglichst viele Sternchen",
-            "width": 170
-        }
-    ]
+  "settings": [
+    {
+      "name": 0,
+      "height": 480,
+      "gridSize": 32,
+      "width": 320
+    },
+    {
+      "name": 1,
+      "ropePhysicsSpeed": 1,
+      "special": 2,
+      "nightLevel": false
+    }
+  ],
+  "objects": [
+    {
+      "name": 58,
+      "x": -70,
+      "y": 237,
+      "angle": -150,
+      "size": 2
+    },
+    {
+      "name": 58,
+      "x": -109,
+      "y": 156,
+      "angle": 90,
+      "size": 2
+    },
+    {
+      "name": 100,
+      "x": 456,
+      "y": 84,
+      "spider": false,
+      "gun": false,
+      "wheel": false,
+      "part": "L",
+      "hidePath": false,
+      "moveOffset": 0,
+      "moveVertical": false,
+      "length": 50,
+      "moveLength": -1,
+      "radius": -1,
+      "kickable": false,
+      "kicked": false,
+      "invisible": false,
+      "helicopter": false,
+      "bindBulb": false
+    },
+    {
+      "name": 52,
+      "x": 454,
+      "y": 181
+    },
+    {
+      "name": 58,
+      "x": -72,
+      "y": 79,
+      "angle": 150,
+      "size": 2
+    },
+    {
+      "name": 81,
+      "x": 25,
+      "y": 73,
+      "angle": -150,
+      "size": 2
+    },
+    {
+      "name": 81,
+      "x": 83,
+      "y": 131,
+      "angle": -120,
+      "size": 2
+    },
+    {
+      "name": 81,
+      "x": 82,
+      "y": 205,
+      "angle": -30,
+      "size": 2
+    },
+    {
+      "name": 56,
+      "x": -2,
+      "y": 232,
+      "angle": -90,
+      "group": 0
+    },
+    {
+      "name": 2,
+      "x": -31,
+      "y": 108
+    },
+    {
+      "name": 3,
+      "x": -5,
+      "y": 168,
+      "timeout": 25
+    },
+    {
+      "name": 56,
+      "x": 278,
+      "y": 111,
+      "angle": 90,
+      "group": 0
+    },
+    {
+      "name": 3,
+      "x": 271,
+      "y": 221,
+      "timeout": -1
+    },
+    {
+      "name": 3,
+      "x": 452,
+      "y": 321,
+      "timeout": -1
+    },
+    {
+      "name": 56,
+      "x": 453,
+      "y": 372,
+      "angle": -90,
+      "group": 1
+    },
+    {
+      "name": 56,
+      "x": 273,
+      "y": 363,
+      "angle": -90,
+      "group": 1
+    },
+    {
+      "name": 54,
+      "x": 271,
+      "y": 333
+    }
+  ]
 }
