@@ -21,7 +21,7 @@ The project is currently led by [yell0wsuit](https://github.com/yell0wsuit).
 
 ## Play
 
-You can play the game online at: <https://yell0wsuit.github.io/cuttherope-h5dx/>
+You can play the game online at: <https://yell0wsuit.github.io/cuttherope-dx/>
 
 ## Features
 
