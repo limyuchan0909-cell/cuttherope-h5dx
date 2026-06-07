@@ -468,6 +468,83 @@
         "levelCount": 25,
         "levelLabel": 206
     },
+    [
+  {
+    "id": "dreamcorebox",
+    "boxText": {
+      "en": "Dreamcore Box",
+      "ru": "Дримкор",
+      "fr": "Dreamcore",
+      "de": "Dreamcore-Kiste",
+      "ko": "드림코어 상자"
+    },
+    "boxImage": "box18_bgd.webp",
+    "boxDoor": "levelbg18.webp",
+    "boxType": "NORMAL",
+    "unlockStars": 900,
+    "support": 17,
+    "showEarth": false,
+    "levelBackgroundId": "IMG_BGR_18_P1",
+    "levelOverlayId": "IMG_BGR_18_P1",
+    "levelCount": 25
+  },
+  {
+    "id": "bonusbox1",
+    "boxText": {
+      "en": "Bonus Levels",
+      "ru": "Бонусные уровни",
+      "fr": "Niveaux bonus",
+      "de": "Bonuslevel",
+      "ko": "보너스 레벨"
+    },
+    "boxImage": "box19_bgd.webp",
+    "boxDoor": "levelbg19.webp",
+    "boxType": "BONUS",
+    "unlockStars": 925,
+    "support": 18,
+    "showEarth": false,
+    "levelBackgroundId": "IMG_BGR_19_P1",
+    "levelOverlayId": "IMG_BGR_19_P1",
+    "levelCount": 25
+  },
+  {
+    "id": "foilbox2",
+    "boxText": {
+      "en": "Foil Box",
+      "ru": "Из фольги",
+      "fr": "Papier",
+      "de": "Folienkiste",
+      "ko": "호일 상자"
+    },
+    "boxImage": "box20_bgd.webp",
+    "boxDoor": "levelbg20.webp",
+    "boxType": "NORMAL",
+    "unlockStars": 950,
+    "support": 19,
+    "showEarth": false,
+    "levelBackgroundId": "IMG_BGR_20_P1",
+    "levelOverlayId": "IMG_BGR_20_P1",
+    "levelCount": 25
+  },
+  {
+    "id": "bonusbox2",
+    "boxText": {
+      "en": "Bonus Levels",
+      "ru": "Бонусные уровни",
+      "fr": "Niveaux bonus",
+      "de": "Bonuslevel",
+      "ko": "보너스 레벨"
+    },
+    "boxImage": "box21_bgd.webp",
+    "boxDoor": "levelbg21.webp",
+    "boxType": "BONUS",
+    "unlockStars": 975,
+    "support": 20,
+    "showEarth": false,
+    "levelBackgroundId": "IMG_BGR_21_P1",
+    "levelOverlayId": "IMG_BGR_21_P1",
+    "levelCount": 25
+  },
     {
         "id": "morecoming",
         "boxText": {
@@ -493,4 +570,4 @@
         "levelBackgroundId": null,
         "levelOverlayId": null
     }
-]
+
