@@ -4,6 +4,13 @@
 <img src="./images/ctr_pattern.webp" alt="Cut the Rope: H5DX Logo" width="400"/>
 </p>
 
+> [!NOTE]
+> This project is deprecated.
+> 
+> It is superseded by [Cut the Rope: DX](https://github.com/yell0wsuit/cuttherope-dx),
+> which now runs in the browser via .NET WebAssembly and SkiaSharp
+> ([PR #310](https://github.com/yell0wsuit/cuttherope-dx/pull/310)).
+
 ## About
 
 *Cut the Rope: H5DX (HTML5 Deluxe)* is a fan-made enhancement of the web edition of *Cut the Rope*, originally developed by ZeptoLab. This project aims to improve the original game's codebase, add new features, and enhance the overall gaming experience.
